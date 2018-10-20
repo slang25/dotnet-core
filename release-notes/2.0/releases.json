@@ -1384,6 +1384,7 @@
             "runtime":
             {
                 "version": "2.0.0-preview2-25407-01",
+                "version-display": "2.0.0-preview2",
                 "files":
                 [
                     {
@@ -1410,6 +1411,7 @@
             "sdk":
             {
                 "version": "2.0.0-preview2-006497",
+                "version-display": "2.0.0-preview2",
                 "files":
                 [
                     {
@@ -1441,6 +1443,7 @@
             "runtime":
             {
                 "version": "2.0.0-preview1-002111-00",
+                "version-display": "2.0.0-preview1",
                 "files":
                 [
                     {
@@ -1467,6 +1470,7 @@
             "sdk":
             {
                 "version": "2.0.0-preview1-005977",
+                "version-display": "2.0.0-preview1",
                 "files":
                 [
                     {
