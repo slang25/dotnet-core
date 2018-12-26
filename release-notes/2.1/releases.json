@@ -1468,7 +1468,7 @@
       "aspnetcore-runtime": {
         "version": "2.1.2",
         "version-display": "2.1.2",
-        "version-aspnetcoremodule": null,
+        "version-aspnetcoremodule": "12.2.18248.0",
         "vs-version": null,
         "files": [
           {

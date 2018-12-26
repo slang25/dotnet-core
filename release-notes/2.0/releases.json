@@ -191,7 +191,7 @@
       "release-version": "2.1.201",
       "security": false,
       "cve-list": null,
-      "release-notes": null,
+      "release-notes": "invalid url",
       "runtime": {
         "version": null,
         "version-display": null,
