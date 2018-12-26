@@ -117,7 +117,7 @@
           {
             "name": "dotnet-dev-osx-x64.tar.gz",
             "rid": "osx-x64",
-            "url": "https://download.visualstudio.microsoft.com/download/pr/15a05546-15df-488f-adcf-0e77e86dbefb/1f902e78cfea6209c387adce764a88bc/dotnet-dev-osx-x64.1.1.11.tar.gz",
+            "url": "",
             "hash": "b827b192398af01bf917a5fc0255616a82f04a95dac8154e681398e7e3ef549d701376bb1c9018dea37269e0406f065fb8e2958e652dfabaf86d5e0bb68b0840"
           },
           {

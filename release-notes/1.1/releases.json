@@ -34,7 +34,7 @@
           {
             "name": "core-setup-symbols.zip",
             "rid": "",
-            "url": "https://download.visualstudio.microsoft.com/download/pr/f02b2b5c-35f9-4c7f-b1af-d701bceeb18a/adcd583ab241afac1aef59bf13a4a683/core-setup-1.1.10-symbols.zip",
+            "url": "/f02b2b5c-35f9-4c7f-b1af-d701bceeb18a/adcd583ab241afac1aef59bf13a4a683/core-setup-1.1.10-symbols.zip",
             "hash": "4051672a0d4fc98577896d30fbeae9b8d7ef7d9411c57e7c90d21b1a032ff69f53a89c6bbfc7cc84b3760cb2bab02efdead6e5baa6d37bece906b9d284c274a7"
           },
           {
@@ -637,7 +637,7 @@
           {
             "name": "DotNetCore-WindowsHosting.exe",
             "rid": "",
-            "url": "https://download.microsoft.com/download/1/B/8/1B80E25B-316E-4DFB-9707-DB758681F175/DotNetCore.1.0.11_1.1.8-WindowsHosting.exe",
+            "url": "misformed uri",
             "hash": ""
           }
         ]
