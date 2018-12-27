@@ -1,8 +1,8 @@
 {
     "channel-version": "2.2",
     "latest-release": "2.2.101",
-    "latest-release-date":"2018-12-11",
-    "latest-runtime": "2.2.0",
+    "latest-release-date":"2018-12-06",
+    "latest-runtime": "2.2.0-preview",
     "latest-sdk": "2.2.101",
     "support-phase": "current",
     "eol-date": "2018-12-11",
