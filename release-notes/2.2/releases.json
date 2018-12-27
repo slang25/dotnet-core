@@ -5,7 +5,7 @@
     "latest-runtime": "2.2.0",
     "latest-sdk": "2.2.101",
     "support-phase": "current",
-    "eol-date": "2019-07-11",
+    "eol-date": "2018-12-11",
     "lifecycle-policy": "https://www.microsoft.com/net/support/policy",
     "releases": 
     [

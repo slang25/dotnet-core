@@ -3,13 +3,15 @@
     "latest-release": "3.0.0-preview1",
     "latest-release-date":"2018-12-04",
     "latest-runtime": "3.0.0-preview-27122-01",
+    "latest-sdk": "3.0.100-preview-009812",
     "support-phase": "preview",
+    "eol-date": "",
     "lifecycle-policy": "https://www.microsoft.com/net/support/policy",
     "releases":
     [
       {
         "release-date": "2018-12-04",
-        "release-version": "3.0.0-preview1",
+        "release-version": "3.0.0",
         "security": false,
         "release-notes": "https://github.com/dotnet/core/blob/master/release-notes/3.0/preview/3.0.0-preview1.md",
         "runtime": 
